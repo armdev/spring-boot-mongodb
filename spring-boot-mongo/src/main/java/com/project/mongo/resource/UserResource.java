@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  *
- * @author armenar
+ * @author armen.arzumanyan
  */
 @RestController
 @RequestMapping("/api/user")
